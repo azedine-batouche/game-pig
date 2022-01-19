@@ -10,7 +10,7 @@ This project using html, css and javascript to get a gaming js.
 
 # Demo
 
-To get the demo click of the website click here : [GAMINGJS](https://batouche-dev.github.io/game-pig/) .
+To get the demo click of the website click here : [GAMINGJS](https://azedine-batouche.github.io/game-pig/) .
 
 # Setup
 
